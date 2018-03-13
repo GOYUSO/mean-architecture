@@ -1,0 +1,32 @@
+{
+  "name": "mean-architecture",
+  "version": "1.0.0",
+  "description": "Repository showing a MEAN architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GOYUSO/mean-architecture.git"
+  },
+  "keywords": [
+    "mean",
+    "mongodb",
+    "express",
+    "angular",
+    "node",
+    "example",
+    "project"
+  ],
+  "author": "antsegcan@gmail.com (http://github.com/GOYUSO)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/GOYUSO/mean-architecture/issues"
+  },
+  "homepage": "https://github.com/GOYUSO/mean-architecture#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.4"
+  }
+}
